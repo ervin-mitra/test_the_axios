@@ -7,4 +7,4 @@ const testAxios = async() => {
 
 testAxios();
 
-// retest feature branch sometime maybe perhaps never idefinitely
+// retest feature branch sometime maybe perhaps never indefinitely
