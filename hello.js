@@ -7,4 +7,4 @@ const testAxios = async() => {
 
 testAxios();
 
-// Redo because sometimes you just YOLO on these pull
+// Redo because sometimes you just YOLO on these pull requests
